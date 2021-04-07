@@ -13,6 +13,7 @@
 	box-shadow: inset 0 0 3px grey;
 	margin-left:7%;
 	z-index: 10;
+	background-color: black;
 	
 	
 }
@@ -66,7 +67,7 @@
 	margin-top: 25px;
 	width:600px;
 	height:400px;
-	margin-left: 33%;
+	margin-left: 35%;
 	box-shadow: inset 0 0 10px;
 }
 #like
@@ -143,6 +144,7 @@ text
 }
 #contact
 {
+	height: fit-content;
 	background-color: rgb(143, 141, 141);
 	margin-top: 40px;
 	box-shadow: inset 0 0 10px;
